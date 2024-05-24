@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://toporik.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://backend-toporik.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
